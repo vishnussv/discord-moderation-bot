@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+warns.json
+levels.json
+economy.json
+afk.json
+config.json
